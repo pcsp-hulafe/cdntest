@@ -4,4 +4,5 @@ function cambiarFondo(){
 
 window.onload = function(){
     // Aquí puedes poner cualquier código que quieras que se ejecute cuando la página se haya cargado completamente
+    console.log("vamos a probar ahora");
 }
