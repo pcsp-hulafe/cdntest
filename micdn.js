@@ -1,5 +1,5 @@
 function cambiarFondo(){
-    console.log("Esto es una prueba de javascript");
+    console.log("EstoOo está probado");
 }
 
 window.onload = function start(){
